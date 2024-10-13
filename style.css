@@ -1,0 +1,18 @@
+<style>
+    .fa-quickpanel:before {
+        content: "";
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        background-image: url('https://raw.githubusercontent.com/AmitDas4321/Quickpanel/848ff4d118dc0b4131094a56f378bd2bb2e47be0/favicon.svg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        vertical-align: middle;
+    }
+    .fa-quickpanel {
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+    }
+</style>
