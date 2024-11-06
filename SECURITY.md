@@ -1,5 +1,8 @@
 # QuickPanel Security Policy
 
+[![QuickPanel Logo](https://www.quickpanel.in/uploads/main/8a3feaaf1fdf0c218db5572eacfeb684.png)](https://www.quickpanel.in)
+
+
 ## 1. Purpose
 The purpose of this Security Policy is to protect the integrity, confidentiality, and availability of QuickPanel’s information assets and to ensure compliance with relevant legal and regulatory requirements.
 
