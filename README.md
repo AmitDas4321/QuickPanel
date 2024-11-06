@@ -1,5 +1,3 @@
-# QuickPanel
-
 ![QuickPanel Logo](https://www.quickpanel.in/uploads/main/8a3feaaf1fdf0c218db5572eacfeb684.png)
 
 ## Overview
@@ -40,3 +38,15 @@ QuickPanel is a powerful web push notification service designed to help website 
    <!-- Pixel Code - QuickPanel -->
    <script defer src="https://www.quickpanel.in/pixel/XXXXXXXXXXXXX"></script>
    <!-- END Pixel Code -->
+
+
+
+<!-- Review Button -->
+<p align="center">
+    <a href="https://www.trustpilot.com/review/www.quickpanel.in" target="_blank" style="text-decoration: none;">
+        <img src="https://i.ibb.co/HF8G2PJ/trustpilot-review-button-white-text.png" alt="Leave a Review on Trustpilot" style="display: inline-block; padding: 10px 20px; border: none; border-radius: 5px;">
+    </a>
+</p>
+<p align="center">
+    If you’ve enjoyed using QuickPanel, please consider leaving a review on Trustpilot.
+</p>
