@@ -1,4 +1,5 @@
-![QuickPanel Logo](https://www.quickpanel.in/uploads/main/8a3feaaf1fdf0c218db5572eacfeb684.png)
+[![QuickPanel Logo](https://www.quickpanel.in/uploads/main/8a3feaaf1fdf0c218db5572eacfeb684.png)](https://www.quickpanel.in)
+
 
 ## Overview
 
