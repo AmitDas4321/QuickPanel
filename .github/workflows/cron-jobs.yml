@@ -2,8 +2,9 @@ name: QuickPanel Cron Jobs
 
 on:
   schedule:
-    # Run every minute (adjust this as per your requirement)
+    # Runs every minute (adjust as needed)
     - cron: "* * * * *"
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   cron_tasks:
