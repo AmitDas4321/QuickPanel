@@ -35,6 +35,8 @@ QuickPanel is a powerful web push notification service designed to help website 
    - After adding your website, you will receive a unique pixel code, which includes the `quickpanel_push.js` file.
    - Copy the pixel code provided by QuickPanel and paste it into the `<head>` section of your website's HTML.
 
+
+
    ```html
    <!-- Pixel Code - QuickPanel -->
    <script defer src="https://www.quickpanel.in/pixel/XXXXXXXXXXXXX"></script>
